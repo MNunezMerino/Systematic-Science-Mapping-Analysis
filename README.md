@@ -6,8 +6,7 @@ En el siguiente enlace es posible descargar todo el material asociado:
 https://drive.google.com/drive
 
 Existe un Grupo en Google para abordar cualquier cuestión sobre esta metodologia: 
-https://groups.google.com/search/groups?q=Systematic%20Science%20Mapping%20Analysis&hl=es![image](https://user-images.githubusercontent.com/101110705/190850324-757cb127-3467-45cd-ac49-8f368f7f6502.png)
-
+https://groups.google.com/search/groups?q=Systematic%20Science%20Mapping%20Analysis&hl=es
 
 Systematic Science Mapping Analysis es uno de los resultados de la tesis desarrollada por Miguel Núñez-Merino y dirigida por Juan Manuel Maqueira-Marín, José Moyano-Fuentes y Carlos Alberto Castaño-Moraga. Tesis financiada a través de un acuerdo de colaboración entre la Universidad de Jaén y Fujitsu
 
